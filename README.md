@@ -1,13 +1,3 @@
-<<<<<<< HEAD
-<style>
-    li {
-        list-style-type: none
-    }
-    p {
-        font-size: 14px 
-        
-    }
-</style>
 <h1>My name is Dmitriy Maryshev</h1>
 <p>I want to start a career as a frontend junior-developer at EPAM.</P>
 
