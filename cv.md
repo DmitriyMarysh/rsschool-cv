@@ -12,10 +12,7 @@
 
 <p>Basic HTML, CSS and JS.</p>
 
-
-
 <p>I am a sociable and responsible person. I easily adapt to new conditions and quickly learn new ones.</p>
-
 <p>Higher Technical Education in GTU. im Sukhoi</p>
 
 <p>I study English on my own</p>
