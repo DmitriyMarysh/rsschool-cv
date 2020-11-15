@@ -5,10 +5,10 @@
 
 
 <p>Contact Info</p>
-<li><a><img src="https://i.ibb.co/J5dFBFm/iconmonstr-mail-thin-16.png" alt="mail" border="0"></a> kbnpvp@gmail.com<br></li>
-<li><a><img src="https://i.ibb.co/rcG03Tw/iconmonstr-skype-5-16.png" alt="skype" border="0"></a> kbnpvp@hotmail.com<br></li>
-<li><a><img src="https://i.ibb.co/9ZfZQr9/iconmonstr-discord-5-16.png" alt="dis" border="0"></a> Maryshev Dmitriy#5846</li>
-<li><a><img src="https://i.ibb.co/t3w4CCb/iconmonstr-facebook-5-16.png" alt="fb" border="0"></a>Дмитрий Марышев</li><br>
+<li>kbnpvp@gmail.com</li>
+<li>kbnpvp@hotmail.com</li>
+<li>Maryshev Dmitriy#5846</li>
+<li>Дмитрий Марышев</li>
 
 <p>Basic HTML, CSS and JS.</p>
 
